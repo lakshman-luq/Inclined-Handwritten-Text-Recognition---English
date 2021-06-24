@@ -21,7 +21,12 @@ Now you should have 2 folders (words, words_images) and 1 file (words.txt) in da
 
 # Procedures as follows
 Image Preprocess
+
 Prespective Transformation
+
 Line Segmentation
+
 Word Segmentation
+
 Prediction of word image
+
