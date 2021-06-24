@@ -18,3 +18,10 @@ Copy all images with folders and sub folder of word images to words folder.
 Copy all images to words_images.
 
 Now you should have 2 folders (words, words_images) and 1 file (words.txt) in data directory.
+
+# Procedures as follows
+Image Preprocess
+Prespective Transformation
+Line Segmentation
+Word Segmentation
+Prediction of word image
